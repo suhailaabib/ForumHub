@@ -46,7 +46,7 @@
   * **GET** - /topicos/{id} = Público, pode-se listar um tópico específico através do id;
   * **POST** - /topicos = Privado, só um usuário que tenha um token para autorizar, consegue fazer a criação de um tópico;
   * **PUT** -  /topicos/{id} = Privado, assim como no anterior para fazer a atualização do tópico, necessita do token;
-  * **DELET** - /topicos/{id} = Privado, para excluir um tópico também é necessário o token;
+  * **DELETE** - /topicos/{id} = Privado, para excluir um tópico também é necessário o token;
 
 ## OBS.:
 
