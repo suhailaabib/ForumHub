@@ -50,5 +50,5 @@
 
 ## OBS.:
 
-*Precisará adicionar o seu nome de usuário e senha do banco de dados MySQL, no arquivo application.properties, dentro da pasta resources. Cria esses dados na instalação do banco de dados na sua máquina.
+* Precisará adicionar o seu nome de usuário e senha do banco de dados MySQL, no arquivo application.properties, dentro da pasta resources. Cria esses dados na instalação do banco de dados na sua máquina.
 
