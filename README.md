@@ -21,7 +21,7 @@
   * MySQL;
   * IntelliJ IDEA;
 
-    # Dependências do Spring Initializr:
+    ## Dependências do Spring Initializr:
 
       * Lombok;
       * Spring Web;
