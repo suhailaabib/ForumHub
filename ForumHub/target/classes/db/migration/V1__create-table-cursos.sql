@@ -1,0 +1,6 @@
+
+CREATE TABLE cursos(
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    cartegoria VARCHAR(100) NOT NULL
+);
