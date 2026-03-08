@@ -5,7 +5,7 @@
 ## Objetivos:
 
   * Oferecer um fórum para discussões, certificar a segurança e dignidade das informações;
-  * O sistema possui um crud de tópicos, autenticação e autorização dos usuários;
+  * O sistema possui um crud de tópico, autenticação e autorização dos usuários;
 
 ## Funcionalidades:
 
